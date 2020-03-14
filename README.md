@@ -42,10 +42,7 @@ table that serves as the audit trail for the inventory whenever there is a deliv
 - timestamp
 ```
 
-
-
-
-
+---------------------------------------------------
 
 #### Note: 
 ```
