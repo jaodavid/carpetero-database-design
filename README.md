@@ -43,6 +43,10 @@ table that serves as the audit trail for the inventory whenever there is a deliv
 ```
 
 
+
+
+
+
 #### Note: 
 ```
 - I didn't include Order, Customer, and other possible tables that can be included in creating the whole system. I only focus on tracking Carpeteros inventory.
